@@ -80,7 +80,7 @@ header p {
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
-  animation: slideIn 1s ease forwards;
+  animation: slideIn 3s ease forwards;
   }
 
   @keyframes slideIn {
