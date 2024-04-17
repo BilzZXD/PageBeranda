@@ -23,7 +23,7 @@ body {
 header {
     background-image: url('header-background.jpg');
     background-size: cover;
-    color: #fff;
+    color: #940000;
     text-align: center;
     padding: 100px 0;
 }
@@ -50,7 +50,7 @@ header p {
 
 /* Gaya untuk bagian tentang */
 #about {
-    background-color: #e00000;
+    background-color: #d6d6d6;
     padding: 50px 0;
     text-align: center;
 }
